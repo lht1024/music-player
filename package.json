@@ -1,0 +1,8 @@
+{
+  "main": "main.js",
+  "version": "0.0.1",
+  "name": "music-player",
+  "scripts": {
+    "start": "electron ."
+  }
+}
